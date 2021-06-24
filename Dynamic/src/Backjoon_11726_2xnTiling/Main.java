@@ -24,7 +24,7 @@ public class Main {
 			return 2;
 		if(arr[n]!=0)
 			return arr[n];
-		return tiling(n-1)+tiling(n-2); 
+		return (tiling(n-1)+tiling(n-2))%10007; 
 		
 	}
 
