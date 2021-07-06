@@ -1,4 +1,4 @@
-package Backjoon_1946_newRecruits;
+package Baekjoon_1946_newRecruits;
 
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package BackJoon_1260_DFS_BFS;
+package BaekJoon_1260_DFS_BFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;

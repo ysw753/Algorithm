@@ -1,4 +1,4 @@
-package Backjoon_1699_sumOfSquares;
+package Baekjoon_1699_sumOfSquares;
 
 import java.util.Scanner;
 

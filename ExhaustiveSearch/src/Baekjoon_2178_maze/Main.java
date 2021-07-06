@@ -1,4 +1,4 @@
-package Backjoon_2178_maze;
+package Baekjoon_2178_maze;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -49,8 +49,7 @@ public class Main {
 		q.offer(new XY(n,m));
 		
 		while(!q.isEmpty()) {
-			int x = q.peek().x;
-			int y = q.peek().y;
+			
 			XY xy=q.poll();
 			
 			for(int i=0;i<4;i++)

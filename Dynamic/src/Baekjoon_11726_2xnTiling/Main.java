@@ -1,4 +1,4 @@
-package Backjoon_11726_2xnTiling;
+package Baekjoon_11726_2xnTiling;
 
 import java.util.Scanner;
 

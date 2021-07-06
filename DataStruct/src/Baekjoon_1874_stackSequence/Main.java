@@ -1,4 +1,4 @@
-package Backjoon_1874_stackSequence;
+package Baekjoon_1874_stackSequence;
 
 
 import java.util.Scanner;

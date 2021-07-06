@@ -1,4 +1,4 @@
-package Backjoon_10845_queue;
+package Baekjoon_10845_queue;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

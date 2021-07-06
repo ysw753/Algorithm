@@ -1,4 +1,4 @@
-package Backjoon_1758_kangho;
+package Baekjoon_1758_kangho;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

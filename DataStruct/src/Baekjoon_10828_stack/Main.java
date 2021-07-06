@@ -1,4 +1,4 @@
-package Backjoon_10828_stack;
+package Baekjoon_10828_stack;
 import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
