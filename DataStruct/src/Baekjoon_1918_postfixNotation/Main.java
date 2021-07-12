@@ -1,4 +1,4 @@
-package Beakjoon_1918_postfixNotation;
+package Baekjoon_1918_postfixNotation;
 
 import java.io.BufferedReader;
 import java.io.IOException;
