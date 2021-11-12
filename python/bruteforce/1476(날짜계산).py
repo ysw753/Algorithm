@@ -18,10 +18,7 @@ while True:
     if sa==29:
         sa=1
     if ma==20:
-        ma=1
-    
-    
-    
+        ma=1  
 print(cnt)
 
 
